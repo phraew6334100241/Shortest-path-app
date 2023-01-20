@@ -1,0 +1,6 @@
+A B 10 4lane
+A C 8  4lane
+B E 8  2lane
+B F 6  2lane
+C G 4  2lane 
+C H 2  4lane
